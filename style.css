@@ -1,0 +1,36 @@
+body{
+    font-family: 'Pushster', cursive;
+    background-color: aliceblue;
+}
+
+.header_div{
+    background-color: aqua;
+    color: red;
+}
+
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #6d85ab;
+    bottom: 0;
+    width: 100%;
+    background-color: silver;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(201, 205, 212);
+}
